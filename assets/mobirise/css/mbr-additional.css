@@ -1623,7 +1623,7 @@ section.lazy-placeholder:after {
 }
 .cid-s56N5e3oQR {
   padding-top: 0px;
-  padding-bottom: 90px;
+  padding-bottom: 0px;
   background-color: #efefef;
 }
 .cid-s56N5e3oQR .card-box {
@@ -2206,6 +2206,14 @@ section.lazy-placeholder:after {
   background-color: #ffffff;
 }
 .cid-s5h6MXowFz .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-s8Fw6ne68u {
+  padding-top: 15px;
+  padding-bottom: 0px;
+  background-color: #efefef;
+}
+.cid-s8Fw6ne68u .mbr-section-subtitle {
   color: #767676;
 }
 .cid-s7JfdcRUlg {
