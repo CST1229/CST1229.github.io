@@ -1710,7 +1710,7 @@ section.lazy-placeholder:after {
 }
 .cid-s54WlidxWS {
   padding-top: 90px;
-  padding-bottom: 90px;
+  padding-bottom: 0px;
   background-color: #efefef;
 }
 .cid-s54WlidxWS .card-box {
@@ -1747,6 +1747,49 @@ section.lazy-placeholder:after {
 .cid-s54WlidxWS .card-wrapper:hover {
   box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
   transition: box-shadow 0.3s;
+}
+.cid-sgeFr9KUj3 {
+  padding-top: 0px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
+}
+.cid-sgeFr9KUj3 .card-box {
+  padding: 0 2rem;
+}
+.cid-sgeFr9KUj3 .mbr-section-btn {
+  padding-top: 1rem;
+}
+.cid-sgeFr9KUj3 .mbr-section-btn a {
+  margin-top: 1rem;
+  margin-bottom: 0;
+}
+.cid-sgeFr9KUj3 h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+  padding-top: 2rem;
+}
+.cid-sgeFr9KUj3 p {
+  margin-bottom: 0;
+  text-align: left;
+  padding-top: 1.5rem;
+}
+.cid-sgeFr9KUj3 .mbr-text {
+  color: #767676;
+}
+.cid-sgeFr9KUj3 .card-wrapper {
+  height: 100%;
+  padding-bottom: 2rem;
+  background: #f7ed4a;
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  transition: box-shadow 0.3s;
+}
+.cid-sgeFr9KUj3 .card-wrapper:hover {
+  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
+  transition: box-shadow 0.3s;
+}
+.cid-sgeFr9KUj3 .card-title {
+  text-align: center;
 }
 .cid-s5GdXIhyPC {
   padding-top: 30px;
@@ -3674,6 +3717,14 @@ section.lazy-placeholder:after {
   .cid-s9w5GneKOm .inner-container {
     width: 100% !important;
   }
+}
+.cid-sgeGwtVJPz {
+  padding-top: 60px;
+  padding-bottom: 15px;
+  background-color: #ffffff;
+}
+.cid-sgeGwtVJPz .mbr-section-subtitle {
+  color: #767676;
 }
 .cid-seaa5KsJBX {
   padding-top: 60px;
